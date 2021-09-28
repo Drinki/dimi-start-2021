@@ -5,7 +5,13 @@
 1. [node.js](https://test)
 1. git
 
+### Prévisualisation
 ```
 Ctrl/command + Shift + v
+```
+
+### Paramètre
+```
+Ctrl + ,
 ```
 
