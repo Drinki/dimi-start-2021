@@ -1,3 +1,6 @@
 # dimi-start-2021
 
-## Hello 
+## Hello
+- 1
+- 2
+- 3
