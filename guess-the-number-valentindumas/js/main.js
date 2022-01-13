@@ -1,5 +1,5 @@
-//const mysteryNumber = Math.round(1 + Math.random() * 98);
-const mysteryNumber = 80;
+const mysteryNumber = Math.round(1 + Math.random() * 98);
+//const mysteryNumber = 80;
 //console.log(mysteryNumber);
 
 let numberTry = 0;
